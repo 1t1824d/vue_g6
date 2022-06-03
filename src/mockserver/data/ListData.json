@@ -1,0 +1,2066 @@
+[
+    {
+        "Name": "一级水厂1",
+        "label": "一级水厂1",
+        "Status": 0,
+        "Msg": [],
+        "IsFather": true,
+        "Depth": 1,
+        "Time": "13:00",
+        "id": "Firstlid1",
+        "LID": "Firstlid1",
+        "ShowCode": "一级---1",
+        "List": [
+            {
+                "Title": "浊度",
+                "Data": 0.23
+            },
+            {
+                "Title": "PH",
+                "Data": 3
+            },
+            {
+                "Title": "湿度",
+                "Data": 0.63
+            },
+            {
+                "Title": "COD",
+                "Data": 0.23
+            }
+        ],
+        "children": [
+            {
+                "Name": "二级水厂1",
+                "label": "二级水厂1",
+                "Status": 0,
+                "Msg": [],
+                "IsFather": true,
+                "Depth": 2,
+                "Time": "13:00",
+                "id": "Firstlid1Secondlid1",
+                "LID": "Secondlid1",
+                "ShowCode": "一级---1---二级---1",
+                "children": [
+                    {
+                        "Name": "三级水厂1",
+                        "label": "三级水厂1",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:00",
+                        "id": "Firstlid1Secondlid1Thirdlid1",
+                        "LID": "Thirdlid1",
+                        "ShowCode": "一级---1---二级---1---三级---1",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid1Secondlid1Thirdlid1Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---1---二级---1---三级---1---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid1Secondlid1Thirdlid1Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---1---二级---1---三级---1---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid1Secondlid1Thirdlid1Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---1---二级---1---三级---1---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid1Secondlid1Thirdlid1Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---1---二级---1---三级---1---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂2",
+                        "label": "三级水厂2",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:01",
+                        "id": "Firstlid1Secondlid1Thirdlid2",
+                        "LID": "Thirdlid2",
+                        "ShowCode": "一级---1---二级---1---三级---2",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid1Secondlid1Thirdlid2Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---1---二级---1---三级---2---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid1Secondlid1Thirdlid2Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---1---二级---1---三级---2---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid1Secondlid1Thirdlid2Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---1---二级---1---三级---2---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid1Secondlid1Thirdlid2Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---1---二级---1---三级---2---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂3",
+                        "label": "三级水厂3",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:02",
+                        "id": "Firstlid1Secondlid1Thirdlid3",
+                        "LID": "Thirdlid3",
+                        "ShowCode": "一级---1---二级---1---三级---3",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid1Secondlid1Thirdlid3Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---1---二级---1---三级---3---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid1Secondlid1Thirdlid3Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---1---二级---1---三级---3---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid1Secondlid1Thirdlid3Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---1---二级---1---三级---3---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid1Secondlid1Thirdlid3Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---1---二级---1---三级---3---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    }
+                ],
+                "List": [
+                    {
+                        "Title": "浊度",
+                        "Data": 0.23
+                    },
+                    {
+                        "Title": "PH",
+                        "Data": 3
+                    },
+                    {
+                        "Title": "湿度",
+                        "Data": 0.63
+                    },
+                    {
+                        "Title": "COD",
+                        "Data": 0.23
+                    }
+                ]
+            },
+            {
+                "Name": "二级水厂2",
+                "label": "二级水厂2",
+                "Status": 0,
+                "Msg": [],
+                "IsFather": true,
+                "Depth": 2,
+                "Time": "13:01",
+                "id": "Firstlid1Secondlid2",
+                "LID": "Secondlid2",
+                "ShowCode": "一级---1---二级---2",
+                "children": [
+                    {
+                        "Name": "三级水厂1",
+                        "label": "三级水厂1",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:00",
+                        "id": "Firstlid1Secondlid2Thirdlid1",
+                        "LID": "Thirdlid1",
+                        "ShowCode": "一级---1---二级---2---三级---1",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid1Secondlid2Thirdlid1Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---1---二级---2---三级---1---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid1Secondlid2Thirdlid1Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---1---二级---2---三级---1---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid1Secondlid2Thirdlid1Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---1---二级---2---三级---1---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid1Secondlid2Thirdlid1Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---1---二级---2---三级---1---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂2",
+                        "label": "三级水厂2",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:01",
+                        "id": "Firstlid1Secondlid2Thirdlid2",
+                        "LID": "Thirdlid2",
+                        "ShowCode": "一级---1---二级---2---三级---2",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid1Secondlid2Thirdlid2Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---1---二级---2---三级---2---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid1Secondlid2Thirdlid2Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---1---二级---2---三级---2---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid1Secondlid2Thirdlid2Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---1---二级---2---三级---2---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid1Secondlid2Thirdlid2Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---1---二级---2---三级---2---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂3",
+                        "label": "三级水厂3",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:02",
+                        "id": "Firstlid1Secondlid2Thirdlid3",
+                        "LID": "Thirdlid3",
+                        "ShowCode": "一级---1---二级---2---三级---3",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid1Secondlid2Thirdlid3Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---1---二级---2---三级---3---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid1Secondlid2Thirdlid3Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---1---二级---2---三级---3---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid1Secondlid2Thirdlid3Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---1---二级---2---三级---3---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid1Secondlid2Thirdlid3Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---1---二级---2---三级---3---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    }
+                ],
+                "List": [
+                    {
+                        "Title": "浊度",
+                        "Data": 0.23
+                    },
+                    {
+                        "Title": "PH",
+                        "Data": 3
+                    },
+                    {
+                        "Title": "湿度",
+                        "Data": 0.63
+                    },
+                    {
+                        "Title": "COD",
+                        "Data": 0.23
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "一级水厂2",
+        "label": "一级水厂2",
+        "Status": 0,
+        "Msg": [],
+        "IsFather": true,
+        "Depth": 1,
+        "Time": "13:01",
+        "id": "Firstlid2",
+        "LID": "Firstlid2",
+        "ShowCode": "一级---2",
+        "List": [
+            {
+                "Title": "浊度",
+                "Data": 0.23
+            },
+            {
+                "Title": "PH",
+                "Data": 3
+            },
+            {
+                "Title": "湿度",
+                "Data": 0.63
+            },
+            {
+                "Title": "COD",
+                "Data": 0.23
+            }
+        ],
+        "children": [
+            {
+                "Name": "二级水厂1",
+                "label": "二级水厂1",
+                "Status": 0,
+                "Msg": [],
+                "IsFather": true,
+                "Depth": 2,
+                "Time": "13:00",
+                "id": "Firstlid2Secondlid1",
+                "LID": "Secondlid1",
+                "ShowCode": "一级---2---二级---1",
+                "children": [
+                    {
+                        "Name": "三级水厂1",
+                        "label": "三级水厂1",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:00",
+                        "id": "Firstlid2Secondlid1Thirdlid1",
+                        "LID": "Thirdlid1",
+                        "ShowCode": "一级---2---二级---1---三级---1",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid2Secondlid1Thirdlid1Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---2---二级---1---三级---1---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid2Secondlid1Thirdlid1Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---2---二级---1---三级---1---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid2Secondlid1Thirdlid1Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---2---二级---1---三级---1---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid2Secondlid1Thirdlid1Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---2---二级---1---三级---1---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂2",
+                        "label": "三级水厂2",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:01",
+                        "id": "Firstlid2Secondlid1Thirdlid2",
+                        "LID": "Thirdlid2",
+                        "ShowCode": "一级---2---二级---1---三级---2",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid2Secondlid1Thirdlid2Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---2---二级---1---三级---2---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid2Secondlid1Thirdlid2Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---2---二级---1---三级---2---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid2Secondlid1Thirdlid2Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---2---二级---1---三级---2---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid2Secondlid1Thirdlid2Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---2---二级---1---三级---2---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂3",
+                        "label": "三级水厂3",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:02",
+                        "id": "Firstlid2Secondlid1Thirdlid3",
+                        "LID": "Thirdlid3",
+                        "ShowCode": "一级---2---二级---1---三级---3",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid2Secondlid1Thirdlid3Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---2---二级---1---三级---3---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid2Secondlid1Thirdlid3Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---2---二级---1---三级---3---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid2Secondlid1Thirdlid3Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---2---二级---1---三级---3---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid2Secondlid1Thirdlid3Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---2---二级---1---三级---3---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    }
+                ],
+                "List": [
+                    {
+                        "Title": "浊度",
+                        "Data": 0.23
+                    },
+                    {
+                        "Title": "PH",
+                        "Data": 3
+                    },
+                    {
+                        "Title": "湿度",
+                        "Data": 0.63
+                    },
+                    {
+                        "Title": "COD",
+                        "Data": 0.23
+                    }
+                ]
+            },
+            {
+                "Name": "二级水厂2",
+                "label": "二级水厂2",
+                "Status": 0,
+                "Msg": [],
+                "IsFather": true,
+                "Depth": 2,
+                "Time": "13:01",
+                "id": "Firstlid2Secondlid2",
+                "LID": "Secondlid2",
+                "ShowCode": "一级---2---二级---2",
+                "children": [
+                    {
+                        "Name": "三级水厂1",
+                        "label": "三级水厂1",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:00",
+                        "id": "Firstlid2Secondlid2Thirdlid1",
+                        "LID": "Thirdlid1",
+                        "ShowCode": "一级---2---二级---2---三级---1",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid2Secondlid2Thirdlid1Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---2---二级---2---三级---1---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid2Secondlid2Thirdlid1Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---2---二级---2---三级---1---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid2Secondlid2Thirdlid1Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---2---二级---2---三级---1---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid2Secondlid2Thirdlid1Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---2---二级---2---三级---1---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂2",
+                        "label": "三级水厂2",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:01",
+                        "id": "Firstlid2Secondlid2Thirdlid2",
+                        "LID": "Thirdlid2",
+                        "ShowCode": "一级---2---二级---2---三级---2",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid2Secondlid2Thirdlid2Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---2---二级---2---三级---2---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid2Secondlid2Thirdlid2Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---2---二级---2---三级---2---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid2Secondlid2Thirdlid2Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---2---二级---2---三级---2---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid2Secondlid2Thirdlid2Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---2---二级---2---三级---2---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "三级水厂3",
+                        "label": "三级水厂3",
+                        "Status": 1,
+                        "Msg": [],
+                        "IsFather": true,
+                        "Depth": 3,
+                        "Time": "13:02",
+                        "id": "Firstlid2Secondlid2Thirdlid3",
+                        "LID": "Thirdlid3",
+                        "ShowCode": "一级---2---二级---2---三级---3",
+                        "children": [
+                            {
+                                "Name": "四级水厂1",
+                                "label": "四级水厂1",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:00",
+                                "id": "Firstlid2Secondlid2Thirdlid3Fourlid1",
+                                "LID": "Fourlid1",
+                                "ShowCode": "一级---2---二级---2---三级---3---四级---1",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂2",
+                                "label": "四级水厂2",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:01",
+                                "id": "Firstlid2Secondlid2Thirdlid3Fourlid2",
+                                "LID": "Fourlid2",
+                                "ShowCode": "一级---2---二级---2---三级---3---四级---2",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂3",
+                                "label": "四级水厂3",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:02",
+                                "id": "Firstlid2Secondlid2Thirdlid3Fourlid3",
+                                "LID": "Fourlid3",
+                                "ShowCode": "一级---2---二级---2---三级---3---四级---3",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            },
+                            {
+                                "Name": "四级水厂4",
+                                "label": "四级水厂4",
+                                "Status": 1,
+                                "Msg": [],
+                                "IsFather": false,
+                                "Depth": 4,
+                                "Time": "13:03",
+                                "id": "Firstlid2Secondlid2Thirdlid3Fourlid4",
+                                "LID": "Fourlid4",
+                                "ShowCode": "一级---2---二级---2---三级---3---四级---4",
+                                "children": [],
+                                "List": [
+                                    {
+                                        "Title": "浊度",
+                                        "Data": 0.23
+                                    },
+                                    {
+                                        "Title": "PH",
+                                        "Data": 3
+                                    },
+                                    {
+                                        "Title": "湿度",
+                                        "Data": 0.63
+                                    },
+                                    {
+                                        "Title": "COD",
+                                        "Data": 0.23
+                                    }
+                                ]
+                            }
+                        ],
+                        "List": [
+                            {
+                                "Title": "浊度",
+                                "Data": 0.23
+                            },
+                            {
+                                "Title": "PH",
+                                "Data": 3
+                            },
+                            {
+                                "Title": "湿度",
+                                "Data": 0.63
+                            },
+                            {
+                                "Title": "COD",
+                                "Data": 0.23
+                            }
+                        ]
+                    }
+                ],
+                "List": [
+                    {
+                        "Title": "浊度",
+                        "Data": 0.23
+                    },
+                    {
+                        "Title": "PH",
+                        "Data": 3
+                    },
+                    {
+                        "Title": "湿度",
+                        "Data": 0.63
+                    },
+                    {
+                        "Title": "COD",
+                        "Data": 0.23
+                    }
+                ]
+            }
+        ]
+    }
+]
